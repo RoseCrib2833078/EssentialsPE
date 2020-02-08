@@ -6,13 +6,13 @@ author: iksaku
 
 commands:
     broadcast:
-        description: Broadcast a message.
-        usage: "/broadcast <message> [p:<permission>]"
+        description: Difuzați un mesaj.
+        usage: "/broadcast <mesaj> [p:<permisie>]"
         permission: essentials.command.broadcast.use
         aliases: ["bcast"]
     burn:
-        description: Set a player on fire!
-        usage: "/burn <player> <seconds>"
+        description: da foc unui jucator!
+        usage: "/burn <jucator> <secunde>"
         permission: essentials.command.burn
     clearinventory:
         description: Clear a player's inventory
